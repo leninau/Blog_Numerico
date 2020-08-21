@@ -2,11 +2,12 @@
 title: Incidente crítico (Versión 01)
 author: Lenin Au
 date: '2020-08-21'
-slug: incidente-critico-version-01
-categories: []
 tags:
   - MOOC UNAM
   - Proyecto innovación educativa
+slug: incidente-critico-version-01
 ---
+
+# Primera versión de incidente crítico
 
 Se desea alinear el curso de métodos numéricos a las necesidades intelectuales, académicas y laborales de futuros ingnieros.
