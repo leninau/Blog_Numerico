@@ -1,0 +1,12 @@
+---
+title: Incidente crítico (Versión 01)
+author: Lenin Au
+date: '2020-08-21'
+slug: incidente-critico-version-01
+categories: []
+tags: []
+---
+
+Se trata de encontrar una solución para que los estudiantes de métodos numéricos para la ingeniería tengan un ambiente de aprendizaje más cercano a sus necesidades intelectuales, académicas y laborales.
+
+La idea es que ésta sea la versión 01 para posibles mejoras en la percepción del problema..
