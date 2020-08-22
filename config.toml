@@ -1,4 +1,4 @@
-baseurl = "https://leninau.github.io/Blog_Numerico/"
+baseurl = "https://blog-numerico.netlify.app/"
 languageCode = "es-es"
 defaultContentLanguage = "es-es"
 title = "Proyecto Innovación Educativa MOOC UNAM Lenin Echavarría"
