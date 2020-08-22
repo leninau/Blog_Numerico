@@ -7,6 +7,13 @@ categories: []
 tags: []
 ---
 
+El incidente crítico que buscamos tratar de resolver es cómo hacer que los estudiantes se involucren en actividades que tengan más relación con las actividades que realizarán en el futuro. La problemática de esto es que la mayoría de los estudiantes pueden no tener la disposición para realizar dichas actividades.
+
+Para ello, se generó un cuestionario para conocer las actitudes que tendrían los estudiantes para trabajar en actividades en las que tomaran un rol más activo. Este cuestionario ya se aplicó y se les pidió a 181 estudiantes que lo contestaran. Finalmente, lo contestaron 111 estudiantes vía un cuestionario en Moodle con los ítems ordenados al azar.
+
+No se ha comprobado la validez del cuestionario, pero puede darnos algunos resultados que podamos usar para reflexionar en nuestra innovación.
+
+
 
 # Actitudes
 
@@ -26,7 +33,7 @@ Para que en la PICM se desarrolle apropiadamente, se requiere que entren en jueg
 
 # Preguntas
 
-Se construyó un cuestionario con las cinco dimensiones anteriores y respuestas tipo Likert con resuestas:
+Se construyó un cuestionario con las cinco dimensiones anteriores y respuestas tipo Likert:
 
 - Totalmente en desacuerdo
 - En desacuerdo
@@ -36,6 +43,7 @@ Se construyó un cuestionario con las cinco dimensiones anteriores y respuestas 
 - Totalmente de acuerdo
 
 
+Los ítems son los siguientes. Se muestra un código para cada ítem. Los tres primeros caracteres indican el tipo de actitud. Los dos siguientes el número de ítem. Y finalmente si el ítem está redactado de forma positiva o negativa.
 
 ## De problematización
 
@@ -123,56 +131,56 @@ Prc07$-$
 
 ## Exotérica
 
-Exo01
+Exo01$-$
   ~ Las matemáticas son principalmente hechos y procedimientos que deben ser memorizados.
 
-Exo02
+Exo02$+$
   ~ Una vez que obtengo una respuesta, trato de verificar si no hay una mejor.
 
-Exo03
+Exo03$-$
   ~ Si no hubiera respuestas en la parte final del libro, no tendría idea de si habría solucionado el problema correctamente o no.
 
-Exo04
+Exo04$+$
   ~ A menudo aprendo mucho de mis errores.
 
 
-Exo05
+Exo05$-$
   ~ No me gusta que el profesor muestre más de una forma de resolver un problema.
   
 
-Exo06
+Exo06$+$
   ~ Me gusta encontrar diferentes formas de resolver los problemas matemáticos.
 
 
 
 ## De enciclopedista ordinario
-Enc01
+Enc01$+$
   ~ Si para resolver un problema nuevo, tengo que aprender cosas nuevas, lo hago.
 
 
-Enc02
+Enc02$+$
   ~ Me gusta aprender de varios temas para tener mayores posibilidades de resolver problemas.
 
 
-Enc03
+Enc03$+$
   ~ Me gusta aprender temas nuevos aunque no sean parte de mi formación escolar.
 
 
 
-Enc04
+Enc04$+$
   ~ Tengo más conocimientos generales que la mayoría de mis amigos de mi edad.
 
 
 
-Enc05
+Enc05$-$
   ~ No me interesa resolver problemas que contienen conceptos que no entiendo.
 
 
 
-Enc06
+Enc06$-$
   ~ Aprender sobre temas ajenos a la carrera que escogí es una pérdida de tiempo.
 
 
-Enc07
+Enc07$-$
   ~ Ver videos en línea es sólo para entretenimiento, no para aprender algo nuevo.
 
