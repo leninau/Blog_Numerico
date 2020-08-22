@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Proyecto Innovación Educativa MOOC UNAM Lenin Echavarría</title>
-    <link>https://blog-numerico.netlify.app/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on Proyecto Innovación Educativa MOOC UNAM Lenin Echavarría</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <copyright>&amp;copy; &lt;a href=&#34;https://github.com/leninau&#34;&gt;Lenin Echavarría&lt;/a&gt; 2020</copyright>
     <lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://blog-numerico.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Incidente crítico (Versión 01)</title>
-      <link>https://blog-numerico.netlify.app/posts/incidente-critico-version-01/</link>
+      <link>/posts/incidente-critico-version-01/</link>
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-numerico.netlify.app/posts/incidente-critico-version-01/</guid>
+      <guid>/posts/incidente-critico-version-01/</guid>
       <description>Se trata de encontrar una solución para que los estudiantes de métodos numéricos para la ingeniería tengan un ambiente de aprendizaje más cercano a sus necesidades intelectuales, académicas y laborales.
-La idea es que ésta sea la versión 01 para posibles mejoras en la percepción del problema.</description>
+La idea es que ésta sea la versión 01 para posibles mejoras en la percepción del problema..</description>
     </item>
     
   </channel>
