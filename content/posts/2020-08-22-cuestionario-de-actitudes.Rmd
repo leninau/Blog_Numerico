@@ -1,0 +1,176 @@
+---
+title: Cuestionario de Actitudes del Cuestionamiento del Mundo
+author: ''
+date: '2020-08-22'
+slug: cuestionario-de-actitudes
+categories: []
+tags: []
+---
+
+
+# Actitudes
+
+Para que en la PICM se desarrolle apropiadamente, se requiere que entren en juego las siguientes actitudes:
+
+1. _De problematización_. Un REI empieza con una cuestión generatriz, que pudo haber sido generada por los mismos participantes. Ésta puede ser modificada, reformulada o enriquecida con nuevas cuestiones. En un ámbito educativo, si un profesor es el único que propone problemas, se estará fallando a uno de los propósitos de la PICM.
+
+2. _Herbartiana_. Se refiere a enfrentar la cuestiones que se presenten, a no huir de ellas. Para ello quizá se requiera estudiar algo nuevo. Esto es contrario a buscar soluciones alternas a las matemáticas por miedo a no enfrentarlas, aunque la solución podría ser mejor.
+
+3. _Procognitiva_. Esta actitud es contraria a la Retrocognitiva, la cual asume que los problemas que resuelva una persona son los que aprendió a resolver durante su escolaridad. En la PICM se asume que los participantes están conscientes de que será necesario aprender hacia adelante, según las necesidades que se vayan visualizando en el REI.
+
+4. _Exotérica_. Se refiere a considerarse a uno mismo como alguien que debe aprender o revisar lo aprendido. Contrario a una actitud esotérica en la que se cree que se sabe todo al menos de un tema determinado.
+
+5. _De enciclopedista ordinario_. Una persona con esta actitud tiene curiosidad en varios campos del conocimiento. Tiene disposición para aprender o profundizar en los conocimientos que sea necesario para un REI, por ejemplo.
+
+
+
+# Preguntas
+
+Se construyó un cuestionario con las cinco dimensiones anteriores y respuestas tipo Likert con resuestas:
+
+- Totalmente en desacuerdo
+- En desacuerdo
+- Ligeramente en desacuerdo
+- Ligeramente de acuerdo
+- De acuerdo
+- Totalmente de acuerdo
+
+
+## De problematización
+
+Prb01$+$
+  ~ Me gusta hacer preguntas en clase.
+
+
+Prb02$+$
+  ~ Si me pidieran escribir una pregunta sobre un tema de matemáticas, a mí se me ocurrirían varios.
+    
+
+Prb03$+$
+  ~ Se me facilita formular problemas de matemáticas, aunque a veces no puedo resolverlos.
+
+Prb04$-$
+  ~ Los problemas matemáticos los formulan personas ociosas que deberían usar su tiempo más productivamente.
+
+
+Prb05$-$
+  ~ Yo sólo podría formular problemas matemáticos no interesantes.
+    
+
+Prb06$+$
+  ~ A veces se me ocurren problemas matemáticos que no tengo tiempo de resolver.
+    
+    
+Prb07$-$
+  ~ Me es imposible, a partir de una situación real, formular un problema matemático.
+
+
+## Herbartiana
+Her01$+$
+  ~ En matemáticas, puedes encontrar formas nuevas de resolver los problemas por ti mismo.
+
+
+Her02$-$
+  ~ Prefiero resolver los problemas de forma que no se usen las matemáticas.
+
+
+Her03$+$
+  ~ Me gusta resolver problemas matemáticos.
+
+
+Her04$-$
+  ~ En las tareas en equipo, prefiero que los problemas matemáticos los resuelvan otros.
+  
+
+Her05$-$
+  ~ Es una pérdida de tiempo tratar de resolver problemas que no tienen solución única.
+
+
+Her06$+$
+  ~ Suelo ayudar a mis amigos a resolver problemas matemáticos.
+
+
+## Procognitiva
+
+Prc01$-$
+  ~ Un ingeniero podrá resolver sólo los problemas que aprendió en la escuela.
+  
+Prc02$+$
+  ~ Suelo resolver problemas para los que es necesario aprender cosas nuevas.
+  
+Prc03$-$
+  ~ Los profesores no deberían asignar tareas a los estudiantes de temas que no se han visto en clase.
+  
+
+Prc04$+$
+  ~ Si es necesario, estudio un concepto matemático nuevo para resolver un problema.
+
+Prc05$-$
+  ~ Cuando me enfrento con un problema de tarea de algún tema que no hemos visto en clase, lo postergo hasta que el profesor exponga ese tema.
+
+Prc06$+$
+  ~ Ante un problema matemático, primero trato de decidir si ya tengo los conocimientos para resolverlo y, si no, estudio lo que sea necesario para resolverlo.
+
+
+Prc07$-$
+  ~ Primero se deben estudiar los temas y después las aplicaciones.
+
+
+
+
+
+## Exotérica
+
+Exo01
+  ~ Las matemáticas son principalmente hechos y procedimientos que deben ser memorizados.
+
+Exo02
+  ~ Una vez que obtengo una respuesta, trato de verificar si no hay una mejor.
+
+Exo03
+  ~ Si no hubiera respuestas en la parte final del libro, no tendría idea de si habría solucionado el problema correctamente o no.
+
+Exo04
+  ~ A menudo aprendo mucho de mis errores.
+
+
+Exo05
+  ~ No me gusta que el profesor muestre más de una forma de resolver un problema.
+  
+
+Exo06
+  ~ Me gusta encontrar diferentes formas de resolver los problemas matemáticos.
+
+
+
+## De enciclopedista ordinario
+Enc01
+  ~ Si para resolver un problema nuevo, tengo que aprender cosas nuevas, lo hago.
+
+
+Enc02
+  ~ Me gusta aprender de varios temas para tener mayores posibilidades de resolver problemas.
+
+
+Enc03
+  ~ Me gusta aprender temas nuevos aunque no sean parte de mi formación escolar.
+
+
+
+Enc04
+  ~ Tengo más conocimientos generales que la mayoría de mis amigos de mi edad.
+
+
+
+Enc05
+  ~ No me interesa resolver problemas que contienen conceptos que no entiendo.
+
+
+
+Enc06
+  ~ Aprender sobre temas ajenos a la carrera que escogí es una pérdida de tiempo.
+
+
+Enc07
+  ~ Ver videos en línea es sólo para entretenimiento, no para aprender algo nuevo.
+
