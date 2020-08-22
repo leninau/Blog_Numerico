@@ -36,6 +36,7 @@ Se construyó un cuestionario con las cinco dimensiones anteriores y respuestas 
 - Totalmente de acuerdo
 
 
+
 ## De problematización
 
 Prb01$+$
@@ -63,6 +64,7 @@ Prb06$+$
     
 Prb07$-$
   ~ Me es imposible, a partir de una situación real, formular un problema matemático.
+
 
 
 ## Herbartiana
